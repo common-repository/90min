@@ -1,0 +1,94 @@
+/* admin.css */
+body.settings_page_nmin-settings .wrap h2 { display: none; }
+
+.nmin-header {
+	padding: 20px 0;
+}
+.nmin-header .nmin-logo,
+.nmin-header .nmin-content {
+	float: left;
+}
+
+.nmin-the-logo {
+	background: url(../images/90min-logo.png);
+	background-size: cover;
+	width: 150px;
+	height: 40px;
+	display: block;
+	margin-right: 50px;
+}
+
+/* Settings form */
+#nm-settings-form #leagues {
+	width: 60%;
+	height: 150px;
+}
+
+/* <http://stackoverflow.com/a/9892421> */
+.nmin-settings-leagues {
+	max-height: 300px;
+	overflow: scroll;
+	width: 50%;
+	background: #fff;
+	border: 1px solid #C0C0C0;
+	padding: .5em 1em;
+}
+.nmin-settings-leagues > label {
+	display: block;
+}
+
+.nm-opt-group {
+	font-weight: bold;
+	margin: .8em 0;
+}
+.nm-opt-option {
+	text-indent: 1em;
+	padding-left: 20px !important;
+	color: #939393;
+	margin-bottom: .4em;
+}
+
+.nmin-settings-categories label {
+	display: block;
+	margin-bottom: 0.3em;
+}
+
+.nm-authentication-results {
+	padding-top: 4px;
+	display: inline-block;
+}
+.nm-authentication-results > span {
+	display: none;
+}
+.nm-authentication-results > span.nm-showanyway { display: inline-block; }
+
+.nm-spinner {
+	float: none;
+}
+.nm-spinner.nm-show {
+	display: inline-block;
+}
+
+#nm-settings-form.nm-is-authed .nm-authentication-results .nm-success {
+	display: inline;
+}
+
+.nm-debug-info {
+	font-family: Consolas;
+}
+.nmtab {
+    display: none;
+    margin-top: 15px;
+}
+.nmtab.active {
+    display: block;
+}
+h3.nav-tab-wrapper
+{
+    display: inline-block;
+	width:100%;
+}
+.tagging-taxonomy .description {
+	float:left;
+	margin-right:10px;
+}

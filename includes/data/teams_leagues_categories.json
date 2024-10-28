@@ -1,0 +1,1283 @@
+{
+    "en": {
+        "Premier League": {
+            "id": 1,
+            "teams": [
+                {
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                {
+                    "name": "Aston Villa",
+                    "id": 2
+                },
+                {
+                    "name": "AFC Bournemouth",
+                    "id": 179
+                },
+                {
+                    "name": "Chelsea",
+                    "id": 7
+                },
+                {
+                    "name": "Everton",
+                    "id": 8
+                },
+                {
+                    "name": "Liverpool",
+                    "id": 10
+                },
+                {
+                    "name": "Manchester City",
+                    "id": 11
+                },
+                {
+                    "name": "Manchester United",
+                    "id": 12
+                },
+                {
+                    "name": "Newcastle United",
+                    "id": 13
+                },
+                {
+                    "name": "Norwich City",
+                    "id": 18
+                },
+                {
+                    "name": "Stoke City",
+                    "id": 14
+                },
+                {
+                    "name": "Sunderland",
+                    "id": 15
+                },
+                {
+                    "name": "Tottenham Hotspur",
+                    "id": 17
+                },
+                {
+                    "name": "West Bromwich Albion",
+                    "id": 16
+                },
+                {
+                    "name": "West Ham United",
+                    "id": 22
+                },
+                {
+                    "name": "Watford",
+                    "id": 43
+                },
+                {
+                    "name": "Crystal Palace",
+                    "id": 126
+                },
+                {
+                    "name": "Leicester City",
+                    "id": 35
+                }
+            ]
+        },
+        "Championship": {
+            "id": 2,
+            "teams": [
+                {
+                    "name": "Blackburn Rovers",
+                    "id": 4
+                },
+                {
+                    "name": "Burnley",
+                    "id": 28
+                },
+                {
+                    "name": "Bolton Wanderers",
+                    "id": 6
+                },
+				{
+                    "name": "Hull City",
+                    "id": 32
+                },
+                {
+                    "name": "Birmingham",
+                    "id": 21
+                },
+                {
+                    "name": "Milton Keynes Dons",
+                    "id": 394
+                },
+                {
+                    "name": "Brighton",
+                    "id": 26
+                },
+                {
+                    "name": "Derby County",
+                    "id": 30
+                },
+                {
+                    "name": "Ipswich Town",
+                    "id": 33
+                },
+                {
+                    "name": "Leeds United",
+                    "id": 34
+                },
+                {
+                    "name": "Middlesbrough",
+                    "id": 36
+                },
+                {
+                    "name": "Preston North End",
+                    "id": 387
+                },
+                {
+                    "name": "Nottingham Forest",
+                    "id": 38
+                },
+                {
+                    "name": "Charlton Athletic",
+                    "id": 130
+                },
+                {
+                    "name": "Sheffield Wednesday",
+                    "id": 131
+                },
+                {
+                    "name": "Huddersfield Town",
+                    "id": 132
+                },
+                {
+                    "name": "Bristol City",
+                    "id": 27
+                },
+                {
+                    "name": "Queens Park Rangers",
+                    "id": 5
+                },
+                {
+                    "name": "Reading",
+                    "id": 41
+                },
+                {
+                    "name": "Fulham",
+                    "id": 9
+                },
+                {
+                    "name": "Wolverhampton Wanderers",
+                    "id": 20
+                },
+                {
+                    "name": "Cardiff City",
+                    "id": 29
+                },
+                {
+                    "name": "Rotherham United",
+                    "id": 383
+                },
+                {
+                    "name": "Brentford",
+                    "id": 415
+                }
+            ]
+        },
+        "La Liga": {
+            "id": 3,
+            "teams": [
+                {
+                    "name": "Atlético Madrid",
+                    "id": 46
+                },
+                {
+                    "name": "FC Barcelona",
+                    "id": 44
+                },
+                {
+                    "name": "Real Madrid",
+                    "id": 45
+                }
+            ]
+        },
+        "Serie A": {
+            "id": 4,
+            "teams": [
+                {
+                    "name": "Inter",
+                    "id": 72
+                },
+                {
+                    "name": "Juventus",
+                    "id": 73
+                },
+                {
+                    "name": "Milan",
+                    "id": 64
+                },
+                {
+                    "name": "SSC Napoli",
+                    "id": 76
+                }
+            ]
+        },
+        "Bundesliga": {
+            "id": 5,
+            "teams": [
+                {
+                    "name": "Bayern München",
+                    "id": 86
+                },
+                {
+                    "name": "BV Borussia Dortmund",
+                    "id": 92
+                },
+                {
+                    "name": "FC Schalke 04",
+                    "id": 87
+                }
+            ]
+        },
+        "categories": [
+            "world_news",
+            "lists",
+            "tv",
+            "transfer"
+        ]
+    },
+    "es": {
+        "La Liga": {
+            "id": 3,
+            "teams": [
+                {
+                    "name": "Athletic Bilbao",
+                    "id": 49
+                },
+                {
+                    "name": "Atlético Madrid",
+                    "id": 46
+                },
+                {
+                    "name": "FC Barcelona",
+                    "id": 44
+                },
+                {
+                    "name": "Celta de Vigo",
+                    "id": 128
+                },
+                {
+                    "name": "Espanyol",
+                    "id": 50
+                },
+                {
+                    "name": "Getafe",
+                    "id": 54
+                },
+                {
+                    "name": "Granada",
+                    "id": 61
+                },
+                {
+                    "name": "Levante",
+                    "id": 55
+                },
+                {
+                    "name": "Málaga",
+                    "id": 52
+                },
+                {
+                    "name": "Rayo Vallecano",
+                    "id": 63
+                },
+                {
+                    "name": "Real Madrid",
+                    "id": 45
+                },
+                {
+                    "name": "Real Sociedad",
+                    "id": 58
+                },
+                {
+                    "name": "Sevilla FC",
+                    "id": 57
+                },
+                {
+                    "name": "Valencia",
+                    "id": 59
+                },
+                {
+                    "name": "Villarreal",
+                    "id": 60
+                },
+                {
+                    "name": "Real Betis",
+                    "id": 62
+                },
+                {
+                    "name": "Las Palmas",
+                    "id": 228
+                },
+                {
+                    "name": "Deportivo La Coruña",
+                    "id": 127
+                },
+                {
+                    "name": "Sporting Gijon",
+                    "id": 47
+                },
+                {
+                    "name": "SD Eibar",
+                    "id": 229
+                }
+            ]
+        },
+        "Liga MX": {
+            "id": 8,
+            "teams": [
+                {
+                    "name": "Tiburones Rojos de Veracruz",
+                    "id": 184
+                },
+                {
+                    "name": "América",
+                    "id": 173
+                },
+                {
+                    "name": "Atlas",
+                    "id": 158
+                },
+                {
+                    "name": "Chivas de Guadalajara",
+                    "id": 156
+                },
+                {
+                    "name": "Cruz Azul",
+                    "id": 160
+                },
+                {
+                    "name": "Chiapas FC",
+                    "id": 159
+                },
+                {
+                    "name": "León",
+                    "id": 161
+                },
+                {
+                    "name": "Monarcas Morelia",
+                    "id": 163
+                },
+                {
+                    "name": "Monterrey",
+                    "id": 162
+                },
+                {
+                    "name": "Pachuca",
+                    "id": 164
+                },
+                {
+                    "name": "Puebla",
+                    "id": 165
+                },
+                {
+                    "name": "Pumas U.N.A.M.",
+                    "id": 172
+                },
+                {
+                    "name": "Querétaro",
+                    "id": 166
+                },
+                {
+                    "name": "Santos Laguna",
+                    "id": 168
+                },
+                {
+                    "name": "Tigres U.A.N.L.",
+                    "id": 171
+                },
+                {
+                    "name": "Tijuana",
+                    "id": 169
+                },
+                {
+                    "name": "Toluca",
+                    "id": 170
+                },
+                {
+                    "name": "Leones Negros",
+                    "id": 675
+                }
+            ]
+        },
+        "Liga Argentina": {
+            "id": 9,
+            "teams": [
+                {
+                    "name": "Arsenal De Sarandí",
+                    "id": 155
+                },
+                {
+                    "name": "Belgrano",
+                    "id": 148
+                },
+                {
+                    "name": "Boca Juniors",
+                    "id": 137
+                },
+                {
+                    "name": "Estudiantes de La Plata",
+                    "id": 145
+                },
+                {
+                    "name": "Godoy Cruz",
+                    "id": 147
+                },
+                {
+                    "name": "Lanu00fas",
+                    "id": 143
+                },
+                {
+                    "name": "Newell's Old Boys",
+                    "id": 142
+                },
+                {
+                    "name": "Quilmes",
+                    "id": 153
+                },
+                {
+                    "name": "Racing Club",
+                    "id": 139
+                },
+                {
+                    "name": "Atlético De Rafaela",
+                    "id": 152
+                },
+                {
+                    "name": "River Plate",
+                    "id": 136
+                },
+                {
+                    "name": "San Lorenzo ",
+                    "id": 140
+                },
+                {
+                    "name": "Tigre",
+                    "id": 154
+                },
+                {
+                    "name": "Vélez Sarsfield",
+                    "id": 141
+                },
+                {
+                    "name": "Olimpo",
+                    "id": 180
+                },
+                {
+                    "name": "Rosario Central",
+                    "id": 181
+                },
+                {
+                    "name": "Gimnasia La Plata",
+                    "id": 182
+                },
+                {
+                    "name": "Independiente",
+                    "id": 138
+                },
+                {
+                    "name": "Defensa y Justicia",
+                    "id": 676
+                },
+                {
+                    "name": "Banfield",
+                    "id": 677
+                },
+                {
+                    "name": "Argentinos Juniors",
+                    "id": 144
+                },
+                {
+                    "name": "Colón",
+                    "id": 149
+                },
+                {
+                    "name": "Unión de Santa Fé",
+                    "id": 150
+                },
+                {
+                    "name": "San Martín de San Juán",
+                    "id": 151
+                },
+                {
+                    "name": "Aldosivi",
+                    "id": 938
+                },
+                {
+                    "name": "Huracán",
+                    "id": 939
+                },
+                {
+                    "name": "Crucero del Norte",
+                    "id": 940
+                },
+                {
+                    "name": "Temperley",
+                    "id": 941
+                },
+                {
+                    "name": "Sarmiento",
+                    "id": 942
+                },
+                {
+                    "name": "Nueva Chicago",
+                    "id": 943
+                }
+            ]
+        },
+        "categories": [
+            "world_news",
+            "lists",
+            "rumors",
+            "tv",
+            "transfer"
+        ]
+    },
+    "it": {
+        "Serie A": {
+            "id": 4,
+            "teams": [
+                {
+                    "name": "Atalanta",
+                    "id": 85
+                },
+                {
+                    "name": "Frosinone",
+                    "id": 354
+                },
+                {
+                    "name": "Chievo Verona",
+                    "id": 69
+                },
+                {
+                    "name": "Fiorentina",
+                    "id": 70
+                },
+                {
+                    "name": "Genoa",
+                    "id": 71
+                },
+                {
+                    "name": "Inter",
+                    "id": 72
+                },
+                {
+                    "name": "Juventus",
+                    "id": 73
+                },
+                {
+                    "name": "Lazio",
+                    "id": 74
+                },
+                {
+                    "name": "Milan",
+                    "id": 64
+                },
+                {
+                    "name": "SSC Napoli",
+                    "id": 76
+                },
+                {
+                    "name": "Carpi",
+                    "id": 365
+                },
+                {
+                    "name": "Roma",
+                    "id": 79
+                },
+                {
+                    "name": "Sampdoria",
+                    "id": 133
+                },
+                {
+                    "name": "Torino",
+                    "id": 134
+                },
+                {
+                    "name": "Udinese",
+                    "id": 80
+                },
+                {
+                    "name": "US Sassuolo",
+                    "id": 176
+                },
+                {
+                    "name": "Hellas Verona",
+                    "id": 177
+                },
+                {
+                    "name": "Bologna",
+                    "id": 65
+                },
+                {
+                    "name": "Palermo",
+                    "id": 77
+                },
+                {
+                    "name": "Empoli",
+                    "id": 343
+                }
+            ]
+        },
+        "categories": [
+            "world_news",
+            "rumors",
+            "lists",
+            "transfer"
+        ]
+    },
+    "de": {
+        "Bundesliga": {
+            "id": 5,
+            "teams": [
+                {
+                    "name": "FC Augsburg",
+                    "id": 98
+                },
+                {
+                    "name": "Bayern München",
+                    "id": 86
+                },
+                {
+                    "name": "Werder Bremen",
+                    "id": 103
+                },
+                {
+                    "name": "BV Borussia Dortmund",
+                    "id": 92
+                },
+                {
+                    "name": "Eintracht Frankfurt",
+                    "id": 104
+                },
+                {
+                    "name": "Darmstadt",
+                    "id": 290
+                },
+                {
+                    "name": "Borussia Mönchengladbach",
+                    "id": 91
+                },
+                {
+                    "name": "Hannover 96",
+                    "id": 100
+                },
+                {
+                    "name": "1899 Hoffenheim",
+                    "id": 94
+                },
+                {
+                    "name": "Hamburger SV",
+                    "id": 90
+                },
+                {
+                    "name": "Bayer 04 Leverkusen",
+                    "id": 99
+                },
+                {
+                    "name": "1. FSV Mainz 05",
+                    "id": 95
+                },
+                {
+                    "name": "FC Schalke 04",
+                    "id": 87
+                },
+                {
+                    "name": "VfB Stuttgart",
+                    "id": 96
+                },
+                {
+                    "name": "VfL Wolfsburg",
+                    "id": 97
+                },
+                {
+                    "name": "Hertha BSC",
+                    "id": 101
+                },
+                {
+                    "name": "1. FC Köln",
+                    "id": 89
+                },
+                {
+                    "name": "FC Ingolstadt 04",
+                    "id": 110
+                }
+            ]
+        },
+        "categories": [
+            "transfer",
+            "world_news",
+            "lists"
+        ]
+    },
+    "fr": {
+        "Ligue 1": {
+            "id": 31,
+            "teams": [
+                {
+                    "name": "Olympique de Marseille",
+                    "id": 188
+                },
+                {
+                    "name": "Paris Saint Germain",
+                    "id": 200
+                },
+                {
+                    "name": "Troyes",
+                    "id": 542
+                },
+                {
+                    "name": "SC Bastia",
+                    "id": 504
+                },
+                {
+                    "name": "Lille OSC",
+                    "id": 506
+                },
+                {
+                    "name": "FC Lorient",
+                    "id": 507
+                },
+                {
+                    "name": "EA Guingamp",
+                    "id": 508
+                },
+                {
+                    "name": "Olympique Lyonnais",
+                    "id": 493
+                },
+                {
+                    "name": "FC Girondins de Bordeaux",
+                    "id": 495
+                },
+                {
+                    "name": "AS Monaco",
+                    "id": 509
+                },
+                {
+                    "name": "FC Nantes",
+                    "id": 510
+                },
+                {
+                    "name": "OGC Nice",
+                    "id": 511
+                },
+                {
+                    "name": "Stade de Reims",
+                    "id": 512
+                },
+                {
+                    "name": "Stade Rennais FC",
+                    "id": 513
+                },
+                {
+                    "name": "AS Saint Etienne",
+                    "id": 514
+                },
+                {
+                    "name": "Toulouse FC",
+                    "id": 517
+                },
+                {
+                    "name": "Montpellier HSC",
+                    "id": 518
+                },
+                {
+                    "name": "SM Caen",
+                    "id": 523
+                },
+                {
+                    "name": "GFCO Ajaccio",
+                    "id": 521
+                },
+                {
+                    "name": "Angers",
+                    "id": 525
+                }
+            ]
+        },
+        "categories": [
+            "world_news",
+            "transfer",
+            "rumors"
+        ]
+    },
+    "tr": {
+        "Su00fcper Lig": {
+            "id": 33,
+            "teams": [
+                {
+                    "name": "Galatasaray",
+                    "id": 565
+                },
+                {
+                    "name": "Fenerbahçe",
+                    "id": 566
+                },
+                {
+                    "name": "Beşiktaş",
+                    "id": 567
+                },
+                {
+                    "name": "Sivasspor",
+                    "id": 588
+                },
+                {
+                    "name": "Kayserispor",
+                    "id": 602
+                },
+                {
+                    "name": "Akhisar Belediyespor",
+                    "id": 590
+                },
+                {
+                    "name": "Kasımpaşa  A.Ş.",
+                    "id": 591
+                },
+                {
+                    "name": "Eskişehirspor",
+                    "id": 592
+                },
+                {
+                    "name": "Gençlerbirliği",
+                    "id": 597
+                },
+                {
+                    "name": "Çaykur Rizespor",
+                    "id": 599
+                },
+                {
+                    "name": "Trabzonspor",
+                    "id": 593
+                },
+                {
+                    "name": "Bursaspor",
+                    "id": 594
+                },
+                {
+                    "name": "Torku Konyaspor",
+                    "id": 595
+                },
+                {
+                    "name": "Gaziantepspor",
+                    "id": 596
+                },
+                {
+                    "name": "Antalyaspor",
+                    "id": 598
+                },
+                {
+                    "name": "Başakşehir",
+                    "id": 682
+                },
+                {
+                    "name": "Osmanlıspor",
+                    "id": 964
+                },
+                {
+                    "name": "Mersin İdm",
+                    "id": 684
+                }
+            ]
+        },
+        "categories": [
+            "transfer",
+            "world_news"
+        ]
+    },
+    "pt-BR": {
+        "Brasileiro Su00e9rie A": {
+            "id": 34,
+            "teams": [
+                {
+                    "name": "Sport",
+                    "id": 586
+                },
+                {
+                    "name": "Atlético Mineiro",
+                    "id": 568
+                },
+                {
+                    "name": "Atlético Paranaense",
+                    "id": 569
+                },
+                {
+                    "name": "Bahia",
+                    "id": 570
+                },
+                {
+                    "name": "Botafogo",
+                    "id": 571
+                },
+                {
+                    "name": "Corinthians",
+                    "id": 572
+                },
+                {
+                    "name": "Chapecoense",
+                    "id": 573
+                },
+                {
+                    "name": "Coritiba",
+                    "id": 574
+                },
+                {
+                    "name": "Criciúma",
+                    "id": 575
+                },
+                {
+                    "name": "Cruzeiro",
+                    "id": 576
+                },
+                {
+                    "name": "Figueirense",
+                    "id": 577
+                },
+                {
+                    "name": "Flamengo",
+                    "id": 578
+                },
+                {
+                    "name": "Fluminense",
+                    "id": 579
+                },
+                {
+                    "name": "Goiás",
+                    "id": 580
+                },
+                {
+                    "name": "Grêmio",
+                    "id": 581
+                },
+                {
+                    "name": "Internacional",
+                    "id": 582
+                },
+                {
+                    "name": "Palmeiras",
+                    "id": 583
+                },
+                {
+                    "name": "Santos FC",
+                    "id": 584
+                },
+                {
+                    "name": "São Paulo",
+                    "id": 585
+                },
+                {
+                    "name": "Vitória",
+                    "id": 587
+                }
+            ]
+        },
+        "categories": [
+            "rumors",
+            "transfer",
+            "world_news",
+            "lists"
+        ]
+    },
+    "id": {
+        "Premier League": {
+            "id": 1,
+            "teams": [
+                {
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                {
+                    "name": "Aston Villa",
+                    "id": 2
+                },
+                {
+                    "name": "AFC Bournemouth",
+                    "id": 179
+                },
+                {
+                    "name": "Chelsea",
+                    "id": 7
+                },
+                {
+                    "name": "Everton",
+                    "id": 8
+                },
+                {
+                    "name": "Liverpool",
+                    "id": 10
+                },
+                {
+                    "name": "Manchester City",
+                    "id": 11
+                },
+                {
+                    "name": "Manchester United",
+                    "id": 12
+                },
+                {
+                    "name": "Newcastle United",
+                    "id": 13
+                },
+                {
+                    "name": "Norwich City",
+                    "id": 18
+                },
+                {
+                    "name": "Stoke City",
+                    "id": 14
+                },
+                {
+                    "name": "Sunderland",
+                    "id": 15
+                },
+                {
+                    "name": "Tottenham Hotspur",
+                    "id": 17
+                },
+                {
+                    "name": "West Bromwich Albion",
+                    "id": 16
+                },
+                {
+                    "name": "West Ham United",
+                    "id": 22
+                },
+                {
+                    "name": "Watford",
+                    "id": 43
+                },
+                {
+                    "name": "Crystal Palace",
+                    "id": 126
+                },
+                {
+                    "name": "Leicester City",
+                    "id": 35
+                }
+            ]
+        },
+        "La Liga": {
+            "id": 3,
+            "teams": [
+                {
+                    "name": "FC Barcelona",
+                    "id": 44
+                },
+                {
+                    "name": "Real Madrid",
+                    "id": 45
+                }
+            ]
+        },
+        "Serie A": {
+            "id": 4,
+            "teams": [
+                {
+                    "name": "Inter",
+                    "id": 72
+                },
+                {
+                    "name": "Juventus",
+                    "id": 73
+                },
+                {
+                    "name": "Milan",
+                    "id": 64
+                }
+            ]
+        },
+        "Bundesliga": {
+            "id": 5,
+            "teams": [
+                {
+                    "name": "Bayern München",
+                    "id": 86
+                },
+                {
+                    "name": "BV Borussia Dortmund",
+                    "id": 92
+                }
+            ]
+        },
+        "categories": [
+            "world_news",
+            "rumors",
+            "transfer",
+            "lists"
+        ]
+    },
+    "vn": {
+        "Premier League": {
+            "id": 1,
+            "teams": [
+                {
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                {
+                    "name": "Aston Villa",
+                    "id": 2
+                },
+                {
+                    "name": "AFC Bournemouth",
+                    "id": 179
+                },
+                {
+                    "name": "Chelsea",
+                    "id": 7
+                },
+                {
+                    "name": "Everton",
+                    "id": 8
+                },
+                {
+                    "name": "Liverpool",
+                    "id": 10
+                },
+                {
+                    "name": "Manchester City",
+                    "id": 11
+                },
+                {
+                    "name": "Manchester United",
+                    "id": 12
+                },
+                {
+                    "name": "Newcastle United",
+                    "id": 13
+                },
+                {
+                    "name": "Norwich City",
+                    "id": 18
+                },
+                {
+                    "name": "Stoke City",
+                    "id": 14
+                },
+                {
+                    "name": "Sunderland",
+                    "id": 15
+                },
+                {
+                    "name": "Tottenham Hotspur",
+                    "id": 17
+                },
+                {
+                    "name": "West Bromwich Albion",
+                    "id": 16
+                },
+                {
+                    "name": "West Ham United",
+                    "id": 22
+                },
+                {
+                    "name": "Watford",
+                    "id": 43
+                },
+                {
+                    "name": "Crystal Palace",
+                    "id": 126
+                },
+                {
+                    "name": "Leicester City",
+                    "id": 35
+                }
+            ]
+        },
+        "La Liga": {
+            "id": 3,
+            "teams": [
+                {
+                    "name": "FC Barcelona",
+                    "id": 44
+                },
+                {
+                    "name": "Real Madrid",
+                    "id": 45
+                }
+            ]
+        },
+        "Serie A": {
+            "id": 4,
+            "teams": [
+                {
+                    "name": "Inter",
+                    "id": 72
+                },
+                {
+                    "name": "Juventus",
+                    "id": 73
+                },
+                {
+                    "name": "Milan",
+                    "id": 64
+                },
+                {
+                    "name": "Roma",
+                    "id": 79
+                }
+            ]
+        },
+        "Bundesliga": {
+            "id": 5,
+            "teams": [
+                {
+                    "name": "Bayern München",
+                    "id": 86
+                },
+                {
+                    "name": "BV Borussia Dortmund",
+                    "id": 92
+                }
+            ]
+        },
+        "categories": [
+            "world_news",
+            "transfer",
+            "lists"
+        ]
+    },
+    "th": {
+        "Premier League": {
+            "id": 1,
+            "teams": [
+                {
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                {
+                    "name": "Chelsea",
+                    "id": 7
+                },
+                {
+                    "name": "Everton",
+                    "id": 8
+                },
+                {
+                    "name": "Liverpool",
+                    "id": 10
+                },
+                {
+                    "name": "Manchester City",
+                    "id": 11
+                },
+                {
+                    "name": "Manchester United",
+                    "id": 12
+                },
+                {
+                    "name": "Tottenham Hotspur",
+                    "id": 17
+                }
+            ]
+        },
+        "categories": [
+            "rumors",
+            "transfer",
+            "lists"
+        ]
+    }
+}

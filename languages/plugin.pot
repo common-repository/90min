@@ -1,0 +1,227 @@
+# Copyright (C) 2015 90Min.com
+# This file is distributed under the same license as the 90Min.com package.
+msgid ""
+msgstr ""
+"Project-Id-Version: 90Min.com 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/plugin\n"
+"POT-Creation-Date: 2015-03-22 15:49:27+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 90min.php:130
+msgid "Settings"
+msgstr ""
+
+#: 90min.php:165
+msgid "90min is almost ready."
+msgstr ""
+
+#: 90min.php:165
+msgid "You must enter your 90min Partner ID &amp; API key for it to work."
+msgstr ""
+
+#: 90min.php:166
+msgid "Let's do it!"
+msgstr ""
+
+#: includes/class-nm-cron.php:34
+msgid "90Min Leap"
+msgstr ""
+
+#: includes/class-nm-util.php:54
+msgid "BEGIN %s"
+msgstr ""
+
+#: includes/class-nm-util.php:59
+msgid "[Line %1$s] %2$s"
+msgstr ""
+
+#: includes/settings.php:25 includes/settings.php:26 includes/settings.php:393
+msgid "90min Settings"
+msgstr ""
+
+#: includes/settings.php:46
+msgid "Debug: Posts were fetched and inserted (if any)."
+msgstr ""
+
+#: includes/settings.php:69
+msgid "Success! Your account details are valid."
+msgstr ""
+
+#: includes/settings.php:70 includes/settings.php:503
+msgid "The provided account details are not valid, please review them or reach our administrator for assistance."
+msgstr ""
+
+#: includes/settings.php:72
+msgid "League Feed"
+msgstr ""
+
+#: includes/settings.php:81
+msgid "Overview"
+msgstr ""
+
+#: includes/settings.php:83
+msgid ""
+"\n"
+"\t\t\t\t<h3>Instructions</h3>\n"
+"\t\t\t\t<p>Once the plugin is activated, you will be able to select your desired content type and more.</p>\n"
+"\t\t\t\t"
+msgstr ""
+
+#: includes/settings.php:101
+msgid ""
+"\n"
+"\t\t\t<p><strong>For more information:</strong></p>\n"
+"\t\t\t<p><a href=\"http://www.90min.com/\" target=\"_blank\">90min.com</a></p>\n"
+"\t\t\t<p><a href=\"http://www.90min.com/contact\" target=\"_blank\">Contact 90min</a></p>\n"
+"\t\t\t<p><a href=\"http://www.90min.com/blog/\" target=\"_blank\">90min Blog</a></p>\n"
+"\t\t"
+msgstr ""
+
+#: includes/settings.php:171
+msgid "Account Details"
+msgstr ""
+
+#: includes/settings.php:180
+msgid "Partner ID"
+msgstr ""
+
+#: includes/settings.php:187
+msgid "API Key"
+msgstr ""
+
+#: includes/settings.php:204
+msgid "Post Settings"
+msgstr ""
+
+#: includes/settings.php:215
+msgid "Post Title"
+msgstr ""
+
+#: includes/settings.php:218
+msgid "Do not show title in post body"
+msgstr ""
+
+#: includes/settings.php:226
+msgid "Views Counter"
+msgstr ""
+
+#: includes/settings.php:229
+msgid "Hide 90min number of views counter"
+msgstr ""
+
+#: includes/settings.php:237
+msgid "Featured Image"
+msgstr ""
+
+#: includes/settings.php:240
+msgid "Set the article’s main image as your ‘Featured Image’."
+msgstr ""
+
+#: includes/settings.php:257
+msgid "Post Type"
+msgstr ""
+
+#: includes/settings.php:273
+msgid "Post Status"
+msgstr ""
+
+#: includes/settings.php:297
+msgid "Tagging Taxonomy"
+msgstr ""
+
+#: includes/settings.php:315
+msgid "Post Author"
+msgstr ""
+
+#: includes/settings.php:316
+msgid "The posts will be attributed to this author"
+msgstr ""
+
+#: includes/settings.php:337
+msgid "Feed Selection"
+msgstr ""
+
+#: includes/settings.php:349
+msgid "Language"
+msgstr ""
+
+#: includes/settings.php:360
+msgid "Leagues / Teams"
+msgstr ""
+
+#: includes/settings.php:372
+msgid "Categories"
+msgstr ""
+
+#: includes/settings.php:410
+msgctxt "save settings button"
+msgid "Save Settings"
+msgstr ""
+
+#: includes/settings.php:415
+msgid "Debug"
+msgstr ""
+
+#: includes/settings.php:416
+msgid "Various tools for debugging."
+msgstr ""
+
+#: includes/settings.php:418
+msgid "Fetch New Posts"
+msgstr ""
+
+#: includes/settings.php:458
+msgid "The credentials are incorrect! Please verify that you have entered them correctly."
+msgstr ""
+
+#: includes/settings.php:466
+msgid "Connection with 90min has been established! You're all set!"
+msgstr ""
+
+#: includes/settings.php:487
+msgid "Please fill in the Partner ID and the API key first."
+msgstr ""
+
+#: includes/settings.php:499
+msgid "Authenticate"
+msgstr ""
+
+#: includes/settings.php:502
+msgid "Success! Your account details are valid"
+msgstr ""
+
+#: includes/settings.php:510
+msgid "Enter your 90min credentials in order to set up the plugin. Credentials are provided upon request, contact us at %s to receive access."
+msgstr ""
+
+#: includes/settings.php:511
+msgid "Customize 90min content in accordance to your editorial needs. Changes to the post layout will only take effect on new posts."
+msgstr ""
+
+#: includes/settings.php:512
+msgid "Select your desired content."
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "90Min.com"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/extend/plugins/90min/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Integrate 90min content to your posts and pages. 90min plugin allows you to automatically integrated 90min content into WordPress posts and pages. For more information about our partnership programs visit us at <a href=\"http://90min.com/partners\">90min.com/partners</a> or contact us at <a href=\"mailto:WPsupport@90min.com\">WPsupport@90min.com</a>."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "90Min, LLC"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://90min.com/"
+msgstr ""
